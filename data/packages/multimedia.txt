@@ -1,0 +1,5 @@
+lollypop
+totem
+vlc
+easyeffects
+rhythmbox
