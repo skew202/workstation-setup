@@ -1,0 +1,4 @@
+ollama-cuda
+python-pytorch-cuda
+cuda
+cudnn
