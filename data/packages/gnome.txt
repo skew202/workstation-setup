@@ -1,0 +1,8 @@
+gdm
+gnome-shell
+gnome-shell-extensions
+gnome-terminal
+nautilus
+gnome-tweaks
+gnome-control-center
+gnome-system-monitor
