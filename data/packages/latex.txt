@@ -1,0 +1,7 @@
+texlive-basic
+texlive-bibtexextra
+texlive-fontsextra
+texlive-latexextra
+texlive-mathscience
+texlive-publishers
+pandoc-cli
