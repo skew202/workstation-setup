@@ -1,0 +1,10 @@
+btop
+htop
+iotop
+iftop
+nethogs
+bandwhich
+nvtop
+speedtest-cli
+tree
+baobab
