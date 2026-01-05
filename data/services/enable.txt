@@ -1,0 +1,8 @@
+apparmor.service
+auditd.service
+ufw.service
+nordvpnd.service
+docker.service
+containerd.service
+systemd-timesyncd.service
+fstrim.timer
