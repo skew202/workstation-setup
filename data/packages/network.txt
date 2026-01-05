@@ -1,0 +1,9 @@
+networkmanager
+networkmanager-openvpn
+networkmanager-openconnect
+networkmanager-pptp
+networkmanager-vpnc
+networkmanager-strongswan
+wpa_supplicant
+bluez-utils
+cloudflared
