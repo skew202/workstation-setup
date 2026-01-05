@@ -1,0 +1,10 @@
+ffmpegthumbnailer
+file-roller
+gnome-disk-utility
+gparted
+baobab
+simple-scan
+seahorse
+tmux
+zola
+yt-dlp
