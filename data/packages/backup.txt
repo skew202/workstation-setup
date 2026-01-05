@@ -1,0 +1,4 @@
+timeshift
+timeshift-autosnap-manjaro
+deja-dup
+rsync
